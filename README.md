@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Engineer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vishnuu011](https://github.com/Vishnuu011?tab=repositories)
+- 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/Vishnuu011?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
